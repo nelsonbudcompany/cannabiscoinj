@@ -1,4 +1,0 @@
-cannabiscoinj
-=============
-
-Android Wallet
